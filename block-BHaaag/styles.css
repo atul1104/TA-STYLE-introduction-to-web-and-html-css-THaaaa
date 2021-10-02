@@ -1,0 +1,29 @@
+body {
+  background-color: #5C7AEA;
+
+}
+
+h2{
+  color: #ADFF2F ;
+}
+.contact{
+  color: white;
+}
+h1, h3 {
+  color: white;
+  font-family: sans-serif;
+
+}
+p {
+  color: white;
+  font-family: sans-serif;
+  line-height: 2rem;
+}
+
+.connect{
+  color: pink;
+  font-weight: bold;
+  letter-spacing: 2px;
+  word-spacing: 30px;
+
+}
